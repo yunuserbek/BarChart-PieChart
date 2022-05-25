@@ -1,3 +1,4 @@
 # BarChart-PieChart
 graphics application
-![des](https://user-images.githubusercontent.com/88515816/170199934-e3f28856-cceb-490e-a311-2638eafbe778.png)
+![Screenshot_20220525_100602](https://user-images.githubusercontent.com/88515816/170201263-ef1b7af4-326a-46e3-a48e-5a3cfdede181.png)
+
